@@ -1,6 +1,13 @@
 using system; 
 
-namespace main()
+namespace HelloWorld
 {
-    console.WriteLine("Hello World");
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
 }
+

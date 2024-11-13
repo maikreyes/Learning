@@ -12,8 +12,8 @@ En este repositorio, estaré trabajando con varios lenguajes de programación, i
 - **C++**
 - **Java**
 - **Go**
-- **Ruby**
-- **Rust**
+- **Kotlin**
+- **Swift**
 
 Cada carpeta o archivo estará relacionado con proyectos o conceptos que esté aprendiendo en un lenguaje específico.
 

@@ -9,7 +9,7 @@ En este repositorio, estaré trabajando con varios lenguajes de programación, i
 
 - **Python**
 - **JavaScript**
-- **C++**
+- **C#**
 - **Java**
 - **Go**
 - **Kotlin**
@@ -23,7 +23,7 @@ El repositorio está organizado de la siguiente manera:
 
 - **/python**: Proyectos y ejercicios relacionados con Python.
 - **/javascript**: Proyectos y ejercicios relacionados con JavaScript.
-- **/cpp**: Proyectos y ejercicios relacionados con C++.
+- **/c#**: Proyectos y ejercicios relacionados con C#.
 - **/java**: Proyectos y ejercicios relacionados con Java.
 - **/go**: Proyectos y ejercicios relacionados con Go.
 - **/ruby**: Proyectos y ejercicios relacionados con Ruby.
